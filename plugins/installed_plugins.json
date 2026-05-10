@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "plugins": {
+    "exa@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/Maxime/.claude/plugins/cache/claude-plugins-official/exa/3.3.8",
+        "version": "3.3.8",
+        "installedAt": "2026-05-10T14:57:58.894Z",
+        "lastUpdated": "2026-05-10T14:57:58.894Z",
+        "gitCommitSha": "bd2ccdd52ca7a35fbc2207ad266bb2a961c0e793"
+      },
+      {
+        "scope": "local",
+        "projectPath": "/home/Maxime/.claude",
+        "installPath": "/home/Maxime/.claude/plugins/cache/claude-plugins-official/exa/3.3.8",
+        "version": "3.3.8",
+        "installedAt": "2026-05-10T14:58:02.775Z",
+        "lastUpdated": "2026-05-10T14:58:02.775Z",
+        "gitCommitSha": "bd2ccdd52ca7a35fbc2207ad266bb2a961c0e793"
+      },
+      {
+        "scope": "project",
+        "projectPath": "/home/Maxime/.claude",
+        "installPath": "/home/Maxime/.claude/plugins/cache/claude-plugins-official/exa/3.3.8",
+        "version": "3.3.8",
+        "installedAt": "2026-05-10T14:58:03.895Z",
+        "lastUpdated": "2026-05-10T14:58:03.895Z",
+        "gitCommitSha": "bd2ccdd52ca7a35fbc2207ad266bb2a961c0e793"
+      }
+    ],
+    "qt-development-skills@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/Maxime/.claude/plugins/cache/claude-plugins-official/qt-development-skills/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-05-10T15:00:52.947Z",
+        "lastUpdated": "2026-05-10T15:00:52.947Z",
+        "gitCommitSha": "62a98e2339e6eefcff108cfc3fe9db8a7301856c"
+      },
+      {
+        "scope": "project",
+        "projectPath": "/home/Maxime/.claude",
+        "installPath": "/home/Maxime/.claude/plugins/cache/claude-plugins-official/qt-development-skills/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-05-10T15:00:51.660Z",
+        "lastUpdated": "2026-05-10T15:00:51.660Z",
+        "gitCommitSha": "62a98e2339e6eefcff108cfc3fe9db8a7301856c"
+      }
+    ]
+  }
+}

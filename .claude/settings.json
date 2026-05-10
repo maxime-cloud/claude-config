@@ -1,0 +1,6 @@
+{
+  "enabledPlugins": {
+    "exa@claude-plugins-official": true,
+    "qt-development-skills@claude-plugins-official": true
+  }
+}
