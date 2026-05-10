@@ -1,0 +1,25 @@
+# Sensitive / credentials
+.credentials.json
+mcp-needs-auth-cache.json
+
+# Conversation history & sessions
+history.jsonl
+sessions/
+session-env/
+shell-snapshots/
+
+# Cache & generated data
+cache/
+stats-cache.json
+debug/
+telemetry/
+file-history/
+backups/
+downloads/
+song/
+
+# Todos (local state)
+todos/
+
+# Lock files (regenerated)
+skills-lock.json
